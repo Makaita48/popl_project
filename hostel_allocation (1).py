@@ -1,4 +1,10 @@
 """CSC1101 Case 8: Student Hostel Room Allocation System.
+Tigere Chitsike SE 260653
+Naboth Magwere CS 260593
+Darlson Mudzimiri CS 260580
+Ruvimbo Chagwiza SE 260662
+Makaitaishe Chitsa CIS 260444
+Lavender Zoe Munemo CIS 260097
 
 Run this file in Python using VS Code or a terminal.
 Only Python's standard library is needed; there are no packages to install.
